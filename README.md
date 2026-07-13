@@ -1,4 +1,6 @@
-API Gateway
+
+API Gateway 
+
 
 This service acts as the central entry point for all microservice requests. It leverages Spring Cloud Gateway and Eureka Service Discovery to dynamically route traffic to backend services.
 Architecture Overview
